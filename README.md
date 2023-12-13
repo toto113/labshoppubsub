@@ -1,7 +1,7 @@
 # 
 
 ## Model
-www.msaez.io/#/courses/cna-full/c2749b10-98ad-11ee-b6d1-43b47b2e5775/pub-sub-2022
+www.msaez.io/#/courses/cna-full/c2749b10-98ad-11ee-b6d1-43b47b2e5775/kafka-basic-2022
 
 ## Before Running Services
 ### Make sure there is a Kafka server running
